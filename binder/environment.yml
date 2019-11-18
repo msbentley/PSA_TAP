@@ -12,6 +12,7 @@ dependencies:
   - pvl
   - pillow
   - pip
+  - scikit-image
   - pip:
     - pds4_tools
 
